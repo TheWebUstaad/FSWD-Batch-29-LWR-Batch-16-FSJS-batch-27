@@ -1,0 +1,21 @@
+FSWD-Batch-29+LWR-Batch-16+FSJS batch#27
+--------------------------------------------
+Session 1-
+	- Html-: 
+		index.html
+		contact.html
+		about.html
+		map.html
+		index.txt
+	- vs code
+	- github
+	- git software
+	- text ,image ,video ,audio pdf, icons
+	- tags :	
+	   <h1> <html> <body> <head> <title> <p> <h2><h3><h4> <h5> <h6>
+	- start tag <h1>
+	- close tag </h1>
+	- none close tags <br> <hr>
+	- link a 
+	- attributes  a = href="" || image =  src=""
+
