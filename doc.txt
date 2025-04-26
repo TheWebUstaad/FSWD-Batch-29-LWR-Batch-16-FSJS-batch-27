@@ -18,4 +18,57 @@ Session 1-
 	- none close tags <br> <hr>
 	- link a 
 	- attributes  a = href="" || image =  src=""
+	-auto save 
+--------------------------------------------
+Session #2 
+	Vs Code Extensions 
+		-Auto Close Tag
+		-Auto Rename Tag
+		-Prettier - Code formatter
+		-Material Icon Theme
+	Tags -: 
+		- semantic tags and non semantic tags
+			<div>
+	Css -:
+		type of css :
+			- inline  css 
+			- internal css 
+	-inline  css 
+	      	style="propty : vlaues 
+		background-color: brown;
+		inner space : padding  || with direction top bottom left right
+		outer space : margin || with direction top bottom left right
+		style="background-color: brown; width: 50%; height: 250px;"
+	-Developer tool
+
+	-internal css 
+		-classes 
+			.home .navbar .slider .card .footer .heading 
+		-class="" 
+		-tag base styling 
+		*{ 
+			margin:0 auto 
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
