@@ -1,6 +1,29 @@
 FSWD-Batch-29+LWR-Batch-16+FSJS batch#27
 --------------------------------------------
-session # HTML with CSS
+Session #4 
+		- External Css
+		- <link rel="stylesheet" href="styles.css">
+		- Css variable (rules,selfdefine styles) 
+		- :root{ --property-name : value }
+		- var(--color1) 
+		- google fonts 
+		- ul li ol li 
+		- linear-gradient(to right, var(--primary-color), var(--secondary-color))
+		- max-width
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+session #3 HTML with CSS
 		- (tag based Css under class base)
 		- https://htmlcolorcodes.com/
 		- Hover  .Navbar a:hover { }
@@ -10,16 +33,6 @@ session # HTML with CSS
 		- flex box
 		- x y https://flexboxfroggy.com/
 		- object-fit: cover;
-
-
-
-
-
-
-
-
-
-
 
 --------------------------------------------
 Session #2 
