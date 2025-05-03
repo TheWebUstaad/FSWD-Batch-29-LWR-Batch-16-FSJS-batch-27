@@ -1,5 +1,11 @@
 FSWD-Batch-29+LWR-Batch-16+FSJS batch#27
 --------------------------------------------
+Session #5 : 
+		- form tag , input type="text/password/email" placeholder=""
+		- id selector (javascript) 
+		- html {scroll-behavior: smooth;}
+		- position fixed
+--------------------------------------------
 Session #4 
 		- External Css
 		- <link rel="stylesheet" href="styles.css">
