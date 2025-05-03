@@ -5,6 +5,7 @@ Session #5 :
 		- id selector (javascript) 
 		- html {scroll-behavior: smooth;}
 		- position fixed
+		- @media (max-width : 768px)  
 --------------------------------------------
 Session #4 
 		- External Css
